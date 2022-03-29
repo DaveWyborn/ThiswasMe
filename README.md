@@ -1,3 +1,36 @@
+I've put this on pause.
+
+I'm still working on it in the background but right now there are a few 'features' that are not working.   I may be able to fix them given time but for now I'm looking into alternatives.
+
+Issues
+
+## Wiki links do work sort of:   
+Links for non existent notes appear as un-linked wiki links they look exactly like this [[Idontwork]]
+Ideally where links do not exist either because they are broken links or for note books yet to be created that they appear as a internal link to # 
+This would solve the formatting issue and allow for broken links, which are usually because I'm not yet ready to release the linked note to the world.
+
+Also embeded links do not work properly.  They pull throught the embeded content which needs formatting with CSS but works but it also shows the link 
+![[link]] 
+
+## Hash tags do not work.    
+Hash tags do not have a link and do not format. I could probably live without this if wiki links worked fully.
+
+## Admonision
+
+Again this doesn't work.  It looks like there is admonision support but not sure how this works when passed through obsidan.  
+It might also be solveable thought CSS as the content does appear.   
+
+
+From the above list the biggest issue is the wiki link.  If you don't use embedded links and you only link to published notes its fine but thats about it. 
+I haven't explored this in great depth I'm going to try out other ideas and possibly come back to this.   There is potential for this to work really well as there are a nubmer of highly customisable features.
+
+
+
+
+
+
+
+
 # Publish your Obsidian Notes
 
 (MkDocs template)
