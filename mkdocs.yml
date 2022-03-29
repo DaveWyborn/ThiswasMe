@@ -23,7 +23,7 @@ theme:
         name: Switch to light mode
 
 extra_css:
-  - stylesheets/obsidian.css
+  - stylesheets/web.css
 
 # Extensions
 markdown_extensions:
